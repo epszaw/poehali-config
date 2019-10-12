@@ -1,0 +1,22 @@
+{
+  "name": "poehali-config",
+  "version": "0.1.0",
+  "description": "✨ Much unified way to start something",
+  "scripts": {
+    "postinstall": "sharec install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamartire/poehali-config.git"
+  },
+  "keywords": ["sharec", "configs", "eslint", "prettier"],
+  "author": "lamartire <lamartire@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lamartire/poehali-config/issues"
+  },
+  "homepage": "https://github.com/lamartire/poehali-config#readme",
+  "dependencies": {
+    "sharec": "^2.12.1-beta"
+  }
+}
