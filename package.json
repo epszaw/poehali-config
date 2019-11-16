@@ -1,6 +1,6 @@
 {
   "name": "poehali-config",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "✨ Much unified way to start something",
   "scripts": {
     "postinstall": "sharec install"
