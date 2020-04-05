@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/lamartire/poehali-config#readme",
   "dependencies": {
-    "sharec": "^2.13.0-beta"
+    "sharec": "^2.0.0-rc.0"
   }
 }
